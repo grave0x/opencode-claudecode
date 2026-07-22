@@ -1,0 +1,13 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "plugin": [
+    "./plugins/plan-mode/plugin.js",
+    "./plugins/checkpoint/plugin.js",
+    "./plugins/memory/plugin.js",
+    "./plugins/background/plugin.js",
+    "./plugins/auto-approve/plugin.js",
+    "./plugins/custom-tools/plugin.js",
+    "./plugins/hooks-engine/plugin.js",
+    "./plugins/system-prompts/plugin.js"
+  ]
+}

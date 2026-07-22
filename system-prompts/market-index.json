@@ -1,0 +1,1944 @@
+{
+  "_fetched": 1784378313333,
+  "_source": "YeeKal/leaked-system-prompts",
+  "prompts": [
+    {
+      "id": "anthropic-claude-2-0-20240306",
+      "name": "Claude 2.0",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-2.0_20240306.md",
+      "date": "2024-03-06",
+      "size": 626,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-2.0_20240306.md",
+      "sha": "8f24028b9a996975b49499366817d40c5471e113",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked"
+      ]
+    },
+    {
+      "id": "anthropic-claude-2-1-20240306",
+      "name": "Claude 2.1",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-2.1_20240306.md",
+      "date": "2024-03-06",
+      "size": 633,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-2.1_20240306.md",
+      "sha": "e6bbbf49ed042ae968b75c231fb2fe7475238ca8",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked"
+      ]
+    },
+    {
+      "id": "anthropic-claude-3-haiku-20240712",
+      "name": "Claude 3 haiku",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-3-haiku_20240712.md",
+      "date": "2024-07-12",
+      "size": 1157,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-3-haiku_20240712.md",
+      "sha": "1df06557cd55034049ca0f1762194d67dc2a05a7",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked"
+      ]
+    },
+    {
+      "id": "anthropic-claude-3-opus-20240712",
+      "name": "Claude 3 opus",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-3-opus_20240712.md",
+      "date": "2024-07-12",
+      "size": 2584,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-3-opus_20240712.md",
+      "sha": "d8c421ba5e15920a7b150711a9b4426f41826be1",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "anthropic-claude-3-sonnet-20240306",
+      "name": "Claude 3 sonnet",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-3-sonnet_20240306.md",
+      "date": "2024-03-06",
+      "size": 1201,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-3-sonnet_20240306.md",
+      "sha": "c33974b4ae9207ac8104d046fff178abbcb361d6",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "anthropic-claude-3-sonnet-20240311",
+      "name": "Claude 3 sonnet",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-3-sonnet_20240311.md",
+      "date": "2024-03-11",
+      "size": 1801,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-3-sonnet_20240311.md",
+      "sha": "a7dec69fc2d9907de2610ae9b6e3e170e38e9619",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "anthropic-claude-3-5-sonnet-full-20250420",
+      "name": "Claude 3.5 sonnet full",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-3.5-sonnet-full_20250420.md",
+      "date": "2025-04-20",
+      "size": 23400,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-3.5-sonnet-full_20250420.md",
+      "sha": "eba70291a9d6ec44a6f59d4c0c897b9c55799013",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "anthropic-claude-3-5-sonnet-20241022",
+      "name": "Claude 3.5 sonnet",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-3.5-sonnet_20241022.md",
+      "date": "2024-10-22",
+      "size": 26573,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-3.5-sonnet_20241022.md",
+      "sha": "0b6ed5bc2880f020834fc87c148c5d4014f4c2f9",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "anthropic-claude-3-5-sonnet-20241122",
+      "name": "Claude 3.5 sonnet",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-3.5-sonnet_20241122.md",
+      "date": "2024-11-22",
+      "size": 26675,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-3.5-sonnet_20241122.md",
+      "sha": "c5257b6274cdd85c22a222b2b32591833ba7d76e",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "anthropic-claude-3-7-sonnet-full-20250517",
+      "name": "Claude 3.7 sonnet full",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-3.7-sonnet-full_20250517.md",
+      "date": "2025-05-17",
+      "size": 64133,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-3.7-sonnet-full_20250517.md",
+      "sha": "664c823f7c1284ca4abdc3f8961c2ee63733e407",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "anthropic-claude-3-7-sonnet-20250224",
+      "name": "Claude 3.7 sonnet",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-3.7-sonnet_20250224.md",
+      "date": "2025-02-24",
+      "size": 14428,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-3.7-sonnet_20250224.md",
+      "sha": "ba90d5dead10cfe83f8c068d2ca1db39d0879cf9",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "anthropic-claude-4-opus-20250522",
+      "name": "Claude 4 opus",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-4-opus_20250522.md",
+      "date": "2025-05-22",
+      "size": 11333,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-4-opus_20250522.md",
+      "sha": "3bfa7143ed48bdf11af7106a71c2f924e212bf4f",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "anthropic-claude-4-sonnet-full-20250522",
+      "name": "Claude 4 sonnet full",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-4-sonnet-full_20250522.md",
+      "date": "2025-05-22",
+      "size": 65247,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-4-sonnet-full_20250522.md",
+      "sha": "986a0a1d9f0f640b6b0e0931ccf7e211254db5cf",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "anthropic-claude-4-sonnet-20250522",
+      "name": "Claude 4 sonnet",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-4-sonnet_20250522.md",
+      "date": "2025-05-22",
+      "size": 11755,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-4-sonnet_20250522.md",
+      "sha": "ef7706265fc40ac0dd6cb6cc29caae999aa6d596",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "anthropic-claude-4-1-20260201",
+      "name": "Claude 4.1",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-4.1_20260201.md",
+      "date": "2026-02-01",
+      "size": 58518,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-4.1_20260201.md",
+      "sha": "947e9b7ec44d33b758819bd0fa5fa5cd828f328f",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked"
+      ]
+    },
+    {
+      "id": "anthropic-claude-4-5-opus-20251124",
+      "name": "Claude 4.5 opus",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-4.5-opus_20251124.md",
+      "date": "2025-11-24",
+      "size": 93044,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-4.5-opus_20251124.md",
+      "sha": "f26bfde466bfb1a82a5274d5c90feb21799a533e",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "anthropic-claude-api-tool-use-20250119",
+      "name": "Claude api tool use",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-api-tool-use_20250119.md",
+      "date": "2025-01-19",
+      "size": 18779,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-api-tool-use_20250119.md",
+      "sha": "36265b84c92e723b26815cf9ecd0c4c0b20cf80f",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked"
+      ]
+    },
+    {
+      "id": "anthropic-claude-code-20250324",
+      "name": "Claude code",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-code_20250324.md",
+      "date": "2025-03-24",
+      "size": 1928,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-code_20250324.md",
+      "sha": "c9c9943c8afdab02a72877569e5ce5cd3cbe098b",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked",
+        "coding-agent"
+      ]
+    },
+    {
+      "id": "anthropic-claude-cowork-20260221",
+      "name": "Claude cowork",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-cowork_20260221.md",
+      "date": "2026-02-21",
+      "size": 54732,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-cowork_20260221.md",
+      "sha": "92dd21732040c04d78aeb6b03d19c64f92f70742",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked"
+      ]
+    },
+    {
+      "id": "anthropic-claude-design-20260417",
+      "name": "Claude design",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-design_20260417.md",
+      "date": "2026-04-17",
+      "size": 73589,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-design_20260417.md",
+      "sha": "a095e2bab2280f1de22cf456d54b5cdf06827ecf",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked",
+        "design"
+      ]
+    },
+    {
+      "id": "anthropic-claude-opus-4-6-20260206",
+      "name": "Claude opus 4.6",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-opus-4.6_20260206.md",
+      "date": "2026-02-06",
+      "size": 103020,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-opus-4.6_20260206.md",
+      "sha": "fa87a9c459260eb37cf760aa098565139b812080",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "anthropic-claude-opus-4-7-20260422",
+      "name": "Claude opus 4.7",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-opus-4.7_20260422.md",
+      "date": "2026-04-22",
+      "size": 208006,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-opus-4.7_20260422.md",
+      "sha": "89422c4f5c9406faddbd621abe44666a1ac66760",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "anthropic-claude-opus-20240306",
+      "name": "Claude opus",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-opus_20240306.md",
+      "date": "2024-03-06",
+      "size": 1772,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-opus_20240306.md",
+      "sha": "065cd0febc82883aa1c5d7e8b2bb0971cdb6e23d",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "anthropic-claude-sonnet-4-5-20250929",
+      "name": "Claude sonnet 4.5",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "anthropic-claude-sonnet-4.5_20250929.md",
+      "date": "2025-09-29",
+      "size": 85642,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-sonnet-4.5_20250929.md",
+      "sha": "a2ebe07e2294dc00e16f6a12a149ce1660fd4370",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "anthropic-artifacts-20240620",
+      "name": "Artifacts",
+      "company": "anthropic",
+      "company_display": "Anthropic",
+      "filename": "claude-artifacts_20240620.md",
+      "date": "2024-06-20",
+      "size": 20057,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/claude-artifacts_20240620.md",
+      "sha": "9ab71db91f04609e424662f231062667ce5e99e6",
+      "model_family": "anthropic/claude",
+      "tags": [
+        "anthropic",
+        "leaked"
+      ]
+    },
+    {
+      "id": "bolt-new-new-20241009",
+      "name": "New",
+      "company": "bolt-new",
+      "company_display": "Bolt.new",
+      "filename": "bolt-new_20241009.md",
+      "date": "2024-10-09",
+      "size": 14089,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/bolt-new/bolt-new_20241009.md",
+      "sha": "1a36da85179d1194b533497a2d073a9ff45ac850",
+      "model_family": "bolt/bolt",
+      "tags": [
+        "bolt-new",
+        "leaked"
+      ]
+    },
+    {
+      "id": "brave-leo-ai-20240601",
+      "name": "Leo ai",
+      "company": "brave",
+      "company_display": "Brave",
+      "filename": "brave-leo-ai_20240601.md",
+      "date": "2024-06-01",
+      "size": 1508,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/brave/brave-leo-ai_20240601.md",
+      "sha": "6c69460318b889c129c573d68114dd44f9e133ca",
+      "model_family": "brave/leo",
+      "tags": [
+        "brave",
+        "leaked"
+      ]
+    },
+    {
+      "id": "brave-leo-20250902",
+      "name": "Leo",
+      "company": "brave",
+      "company_display": "Brave",
+      "filename": "brave-leo_20250902.md",
+      "date": "2025-09-02",
+      "size": 3257,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/brave/brave-leo_20250902.md",
+      "sha": "ebe02da560b95e6deb59e66dd53dd8c6981b1184",
+      "model_family": "brave/leo",
+      "tags": [
+        "brave",
+        "leaked"
+      ]
+    },
+    {
+      "id": "chatglm-chatglm4-20240821",
+      "name": "ChatGLM4",
+      "company": "chatglm",
+      "company_display": "ChatGLM",
+      "filename": "ChatGLM4_20240821.md",
+      "date": "2024-08-21",
+      "size": 2818,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/chatglm/ChatGLM4_20240821.md",
+      "sha": "ef20a264b550de2823c193cb2037268f267fff14",
+      "model_family": "chatglm/chatglm",
+      "tags": [
+        "chatglm",
+        "leaked",
+        "chat"
+      ]
+    },
+    {
+      "id": "codeium-windsurf-cascade-r1-20250201",
+      "name": "Windsurf cascade R1",
+      "company": "codeium",
+      "company_display": "Codeium",
+      "filename": "codeium-windsurf-cascade-R1_20250201.md",
+      "date": "2025-02-01",
+      "size": 11552,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/codeium/codeium-windsurf-cascade-R1_20250201.md",
+      "sha": "95f8c2a333951e8bc898f3191292b5693d198c71",
+      "model_family": "codeium/windsurf",
+      "tags": [
+        "codeium",
+        "leaked",
+        "coding-agent"
+      ]
+    },
+    {
+      "id": "codeium-windsurf-cascade-20241206",
+      "name": "Windsurf cascade",
+      "company": "codeium",
+      "company_display": "Codeium",
+      "filename": "codeium-windsurf-cascade_20241206.md",
+      "date": "2024-12-06",
+      "size": 22738,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/codeium/codeium-windsurf-cascade_20241206.md",
+      "sha": "fb182a7648f4ed93be6bfb1c398b6a59cb32ab5a",
+      "model_family": "codeium/windsurf",
+      "tags": [
+        "codeium",
+        "leaked",
+        "coding-agent"
+      ]
+    },
+    {
+      "id": "colab-ai-20240108",
+      "name": "Ai",
+      "company": "colab",
+      "company_display": "Colab",
+      "filename": "colab-ai_20240108.md",
+      "date": "2024-01-08",
+      "size": 2362,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/colab/colab-ai_20240108.md",
+      "sha": "b6fb8aad729e4adf80f2b15ad9983092cd8fa888",
+      "model_family": "google/colab",
+      "tags": [
+        "colab",
+        "leaked"
+      ]
+    },
+    {
+      "id": "colab-ai-20240511",
+      "name": "Ai",
+      "company": "colab",
+      "company_display": "Colab",
+      "filename": "colab-ai_20240511.md",
+      "date": "2024-05-11",
+      "size": 3364,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/colab/colab-ai_20240511.md",
+      "sha": "61eb74435197aad1888932b8eaff63e0451884df",
+      "model_family": "google/colab",
+      "tags": [
+        "colab",
+        "leaked"
+      ]
+    },
+    {
+      "id": "cursor-2-0-20251029",
+      "name": "2.0",
+      "company": "cursor",
+      "company_display": "Cursor",
+      "filename": "cursor-2.0_20251029.md",
+      "date": "2025-10-29",
+      "size": 23387,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/cursor/cursor-2.0_20251029.md",
+      "sha": "279d762b4ba8b0cc7085d9364ad5752c5172209d",
+      "model_family": "cursor/cursor",
+      "tags": [
+        "cursor",
+        "leaked",
+        "coding-agent"
+      ]
+    },
+    {
+      "id": "cursor-chat-gpt-4o-20250423",
+      "name": "Chat gpt 4o",
+      "company": "cursor",
+      "company_display": "Cursor",
+      "filename": "cursor-chat-gpt-4o_20250423.md",
+      "date": "2025-04-23",
+      "size": 12905,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/cursor/cursor-chat-gpt-4o_20250423.md",
+      "sha": "324b97f3719fe8ec1cae33b428d8caac078cdd29",
+      "model_family": "cursor/cursor",
+      "tags": [
+        "cursor",
+        "leaked",
+        "coding-agent",
+        "chat"
+      ]
+    },
+    {
+      "id": "cursor-ide-agent-claude-sonnet-3-7-20250309",
+      "name": "Ide agent claude sonnet 3.7",
+      "company": "cursor",
+      "company_display": "Cursor",
+      "filename": "cursor-ide-agent-claude-sonnet-3.7_20250309.md",
+      "date": "2025-03-09",
+      "size": 18915,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/cursor/cursor-ide-agent-claude-sonnet-3.7_20250309.md",
+      "sha": "80cb4147680bfb3905003893b3ded5f7e845d355",
+      "model_family": "cursor/cursor",
+      "tags": [
+        "cursor",
+        "leaked",
+        "coding-agent",
+        "frontier"
+      ]
+    },
+    {
+      "id": "cursor-ide-sonnet-20241224",
+      "name": "Ide sonnet",
+      "company": "cursor",
+      "company_display": "Cursor",
+      "filename": "cursor-ide-sonnet_20241224.md",
+      "date": "2024-12-24",
+      "size": 20264,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/cursor/cursor-ide-sonnet_20241224.md",
+      "sha": "2eff0c6942f2bd0ccbbcb28c264afd0819b63072",
+      "model_family": "cursor/cursor",
+      "tags": [
+        "cursor",
+        "leaked",
+        "coding-agent",
+        "frontier"
+      ]
+    },
+    {
+      "id": "deepseek-ai-01",
+      "name": "Ai_01",
+      "company": "deepseek",
+      "company_display": "DeepSeek",
+      "filename": "deepseek-ai_01.md",
+      "date": null,
+      "size": 1262,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/deepseek/deepseek-ai_01.md",
+      "sha": "d70133e94133f0dd7bfcf27b2294d2eda67a3c75",
+      "model_family": "deepseek/deepseek",
+      "tags": [
+        "deepseek",
+        "leaked",
+        "reasoning",
+        "search"
+      ]
+    },
+    {
+      "id": "deepseek-r1-0528-20250528",
+      "name": "R1 0528 20250528",
+      "company": "deepseek",
+      "company_display": "DeepSeek",
+      "filename": "deepseek-r1-0528-20250528.md",
+      "date": null,
+      "size": 5579,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/deepseek/deepseek-r1-0528-20250528.md",
+      "sha": "d42ddf37f0b18a868e21dab3a82f7391c414d02b",
+      "model_family": "deepseek/deepseek",
+      "tags": [
+        "deepseek",
+        "leaked",
+        "reasoning",
+        "search"
+      ]
+    },
+    {
+      "id": "devin-2-20250908",
+      "name": "2",
+      "company": "devin",
+      "company_display": "Devin",
+      "filename": "devin-2_20250908.md",
+      "date": "2025-09-08",
+      "size": 51115,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/devin/devin-2_20250908.md",
+      "sha": "251452e516b0708a053f1df834f41724750e2311",
+      "model_family": "devin/devin",
+      "tags": [
+        "devin",
+        "leaked",
+        "coding-agent"
+      ]
+    },
+    {
+      "id": "devin-ai-20250516",
+      "name": "Ai 20250516",
+      "company": "devin",
+      "company_display": "Devin",
+      "filename": "devin-ai-20250516.md",
+      "date": null,
+      "size": 35007,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/devin/devin-ai-20250516.md",
+      "sha": "28574008332705239247d90c12930b04ca068dc3",
+      "model_family": "devin/devin",
+      "tags": [
+        "devin",
+        "leaked",
+        "coding-agent"
+      ]
+    },
+    {
+      "id": "devin-ai-commands-20250420",
+      "name": "Ai commands 20250420",
+      "company": "devin",
+      "company_display": "Devin",
+      "filename": "devin-ai-commands-20250420.md",
+      "date": null,
+      "size": 29931,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/devin/devin-ai-commands-20250420.md",
+      "sha": "d0471f2e59c313a0781de7fb773b062bf7a1f4db",
+      "model_family": "devin/devin",
+      "tags": [
+        "devin",
+        "leaked",
+        "coding-agent"
+      ]
+    },
+    {
+      "id": "devv-devv-20240427",
+      "name": "Devv",
+      "company": "devv",
+      "company_display": "Devv",
+      "filename": "devv_20240427.md",
+      "date": "2024-04-27",
+      "size": 1422,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/devv/devv_20240427.md",
+      "sha": "3a1f6a820b6755f9d19ea83b5c647b1adfbb9176",
+      "model_family": "devv/devv",
+      "tags": [
+        "devv",
+        "leaked"
+      ]
+    },
+    {
+      "id": "discord-clyde-20230420",
+      "name": "Clyde",
+      "company": "discord",
+      "company_display": "Discord",
+      "filename": "discord-clyde_20230420.md",
+      "date": "2023-04-20",
+      "size": 2423,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/discord/discord-clyde_20230420.md",
+      "sha": "a5926d6ce738340cedebdfd5aa948890dac786aa",
+      "model_family": "discord/clyde",
+      "tags": [
+        "discord",
+        "leaked"
+      ]
+    },
+    {
+      "id": "discord-clyde-20230519",
+      "name": "Clyde",
+      "company": "discord",
+      "company_display": "Discord",
+      "filename": "discord-clyde_20230519.md",
+      "date": "2023-05-19",
+      "size": 1790,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/discord/discord-clyde_20230519.md",
+      "sha": "40e0d66c3badacfa9a0c86933bce741a2f44844e",
+      "model_family": "discord/clyde",
+      "tags": [
+        "discord",
+        "leaked"
+      ]
+    },
+    {
+      "id": "discord-clyde-20230715",
+      "name": "Clyde",
+      "company": "discord",
+      "company_display": "Discord",
+      "filename": "discord-clyde_20230715.md",
+      "date": "2023-07-15",
+      "size": 2258,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/discord/discord-clyde_20230715.md",
+      "sha": "fd19336bc6becf8b506fe10b5bf8d4d4683c58ca",
+      "model_family": "discord/clyde",
+      "tags": [
+        "discord",
+        "leaked"
+      ]
+    },
+    {
+      "id": "discord-clyde-20230716-1",
+      "name": "Clyde_20230716 1",
+      "company": "discord",
+      "company_display": "Discord",
+      "filename": "discord-clyde_20230716-1.md",
+      "date": null,
+      "size": 1350,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/discord/discord-clyde_20230716-1.md",
+      "sha": "c57869944a8ede6853453fd7cdde515282d43b29",
+      "model_family": "discord/clyde",
+      "tags": [
+        "discord",
+        "leaked"
+      ]
+    },
+    {
+      "id": "discord-clyde-20230716-2",
+      "name": "Clyde_20230716 2",
+      "company": "discord",
+      "company_display": "Discord",
+      "filename": "discord-clyde_20230716-2.md",
+      "date": null,
+      "size": 1580,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/discord/discord-clyde_20230716-2.md",
+      "sha": "c97f7724287bd2db7a92d7cb53e63b55963cd52f",
+      "model_family": "discord/clyde",
+      "tags": [
+        "discord",
+        "leaked"
+      ]
+    },
+    {
+      "id": "factory-droid-20250928",
+      "name": "Droid",
+      "company": "factory",
+      "company_display": "Factory",
+      "filename": "factory-droid_20250928.md",
+      "date": "2025-09-28",
+      "size": 17098,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/factory/factory-droid_20250928.md",
+      "sha": "7730b4d0a67c2ddf0230f9e905a4901cfc08a975",
+      "model_family": "factory/droid",
+      "tags": [
+        "factory",
+        "leaked"
+      ]
+    },
+    {
+      "id": "gandalf-gandalf-20230919",
+      "name": "Gandalf",
+      "company": "gandalf",
+      "company_display": "Gandalf",
+      "filename": "gandalf_20230919.md",
+      "date": "2023-09-19",
+      "size": 360,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/gandalf/gandalf_20230919.md",
+      "sha": "3f7d9274b225bd333f128bbbdc97684e30e0dcc9",
+      "model_family": "lakera/gandalf",
+      "tags": [
+        "gandalf",
+        "leaked"
+      ]
+    },
+    {
+      "id": "github-copilot-chat-20230513",
+      "name": "Copilot chat",
+      "company": "github",
+      "company_display": "GitHub",
+      "filename": "github-copilot-chat_20230513.md",
+      "date": "2023-05-13",
+      "size": 3756,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/github/github-copilot-chat_20230513.md",
+      "sha": "a704f6d6da75717863eb8c2b06aeb38472747df8",
+      "model_family": "github/copilot",
+      "tags": [
+        "github",
+        "leaked",
+        "chat"
+      ]
+    },
+    {
+      "id": "github-copilot-chat-20240930",
+      "name": "Copilot chat",
+      "company": "github",
+      "company_display": "GitHub",
+      "filename": "github-copilot-chat_20240930.md",
+      "date": "2024-09-30",
+      "size": 5303,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/github/github-copilot-chat_20240930.md",
+      "sha": "bc46d9ec52d18475bd7ad6db472636b93847d0d3",
+      "model_family": "github/copilot",
+      "tags": [
+        "github",
+        "leaked",
+        "chat"
+      ]
+    },
+    {
+      "id": "google-gemini-1-5-20240411",
+      "name": "Gemini 1.5",
+      "company": "google",
+      "company_display": "Google",
+      "filename": "google-gemini-1.5_20240411.md",
+      "date": "2024-04-11",
+      "size": 2416,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/google/google-gemini-1.5_20240411.md",
+      "sha": "01a886b78eef894dbf347e28378e401e86af9b98",
+      "model_family": "google/gemini",
+      "tags": [
+        "google",
+        "leaked"
+      ]
+    },
+    {
+      "id": "google-gemini-2-5-pro-20250418",
+      "name": "Gemini 2 5 pro",
+      "company": "google",
+      "company_display": "Google",
+      "filename": "google-gemini-2-5-pro_20250418.md",
+      "date": "2025-04-18",
+      "size": 12316,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/google/google-gemini-2-5-pro_20250418.md",
+      "sha": "6ecbc56c9a21962c1896f308ce69788ab99c7a8c",
+      "model_family": "google/gemini",
+      "tags": [
+        "google",
+        "leaked"
+      ]
+    },
+    {
+      "id": "google-gemini-3-1-pro-20260301",
+      "name": "Gemini 3.1 pro",
+      "company": "google",
+      "company_display": "Google",
+      "filename": "google-gemini-3.1-pro_20260301.md",
+      "date": "2026-03-01",
+      "size": 22708,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/google/google-gemini-3.1-pro_20260301.md",
+      "sha": "73387c2516ee411ac41bde5a5b670d2af49da02d",
+      "model_family": "google/gemini",
+      "tags": [
+        "google",
+        "leaked"
+      ]
+    },
+    {
+      "id": "google-gemini-diffusion-20250522",
+      "name": "Gemini diffusion",
+      "company": "google",
+      "company_display": "Google",
+      "filename": "google-gemini-diffusion_20250522.md",
+      "date": "2025-05-22",
+      "size": 6873,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/google/google-gemini-diffusion_20250522.md",
+      "sha": "14013fbb53660d5d6654158b26727fdc4f586af0",
+      "model_family": "google/gemini",
+      "tags": [
+        "google",
+        "leaked",
+        "image"
+      ]
+    },
+    {
+      "id": "google-gemini-gmail-assistant-20251007",
+      "name": "Gemini gmail assistant",
+      "company": "google",
+      "company_display": "Google",
+      "filename": "google-gemini-gmail-assistant_20251007.md",
+      "date": "2025-10-07",
+      "size": 4899,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/google/google-gemini-gmail-assistant_20251007.md",
+      "sha": "803d3386a01d85f103d7b110a7479ea161c6a34e",
+      "model_family": "google/gemini",
+      "tags": [
+        "google",
+        "leaked",
+        "chat"
+      ]
+    },
+    {
+      "id": "google-stitch-20250524",
+      "name": "Stitch",
+      "company": "google",
+      "company_display": "Google",
+      "filename": "google-stitch_20250524.md",
+      "date": "2025-05-24",
+      "size": 4730,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/google/google-stitch_20250524.md",
+      "sha": "e238dc1b9fd26c801824302289d0af49a0e59ff3",
+      "model_family": "google/gemini",
+      "tags": [
+        "google",
+        "leaked"
+      ]
+    },
+    {
+      "id": "lovable-20250516",
+      "name": "20250516",
+      "company": "lovable",
+      "company_display": "Lovable",
+      "filename": "lovable-20250516.md",
+      "date": null,
+      "size": 54175,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/lovable/lovable-20250516.md",
+      "sha": "91aac923c57950c42499ef56fb61487baf9305df",
+      "model_family": "lovable/lovable",
+      "tags": [
+        "lovable",
+        "leaked"
+      ]
+    },
+    {
+      "id": "manus-manus-20250310",
+      "name": "Manus",
+      "company": "manus",
+      "company_display": "Manus",
+      "filename": "manus_20250310.md",
+      "date": "2025-03-10",
+      "size": 44552,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/manus/manus_20250310.md",
+      "sha": "df7aae6dd1098121278531c294ba54396e9fdc15",
+      "model_family": "manus/manus",
+      "tags": [
+        "manus",
+        "leaked"
+      ]
+    },
+    {
+      "id": "meta-muse-spark-20260408",
+      "name": "Muse spark",
+      "company": "meta",
+      "company_display": "Meta",
+      "filename": "meta-muse-spark_20260408.md",
+      "date": "2026-04-08",
+      "size": 49787,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/meta/meta-muse-spark_20260408.md",
+      "sha": "412ad38e36499c6404967f08dcc0f96b9265b4ab",
+      "model_family": "meta/muse",
+      "tags": [
+        "meta",
+        "leaked"
+      ]
+    },
+    {
+      "id": "microsoft-bing-chat-20230209",
+      "name": "Bing chat",
+      "company": "microsoft",
+      "company_display": "Microsoft",
+      "filename": "microsoft-bing-chat_20230209.md",
+      "date": "2023-02-09",
+      "size": 5922,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/microsoft/microsoft-bing-chat_20230209.md",
+      "sha": "e898fbb8f71bdf0f7d218388bb7f19ba92e999c7",
+      "model_family": "microsoft/copilot",
+      "tags": [
+        "microsoft",
+        "leaked",
+        "chat"
+      ]
+    },
+    {
+      "id": "microsoft-copilot-20240310",
+      "name": "Copilot",
+      "company": "microsoft",
+      "company_display": "Microsoft",
+      "filename": "microsoft-copilot_20240310.md",
+      "date": "2024-03-10",
+      "size": 6652,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/microsoft/microsoft-copilot_20240310.md",
+      "sha": "c23620bf63001ecca67d50d1c0dba19a52a99cb3",
+      "model_family": "microsoft/copilot",
+      "tags": [
+        "microsoft",
+        "leaked"
+      ]
+    },
+    {
+      "id": "microsoft-copilot-20241219",
+      "name": "Copilot",
+      "company": "microsoft",
+      "company_display": "Microsoft",
+      "filename": "microsoft-copilot_20241219.md",
+      "date": "2024-12-19",
+      "size": 6449,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/microsoft/microsoft-copilot_20241219.md",
+      "sha": "503fef3c4c0f845e217e08205dc98671b703c451",
+      "model_family": "microsoft/copilot",
+      "tags": [
+        "microsoft",
+        "leaked"
+      ]
+    },
+    {
+      "id": "mistral-le-chat-pro-20250425",
+      "name": "Le chat pro 20250425",
+      "company": "mistral",
+      "company_display": "Mistral",
+      "filename": "mistral-le-chat-pro-20250425.md",
+      "date": null,
+      "size": 3464,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/mistral/mistral-le-chat-pro-20250425.md",
+      "sha": "1165c028ba616249979e40172c26586bfc625dc4",
+      "model_family": "mistral/le-chat",
+      "tags": [
+        "mistral",
+        "leaked",
+        "chat"
+      ]
+    },
+    {
+      "id": "moonshot-kimi-chat-20241106",
+      "name": "Kimi chat",
+      "company": "moonshot",
+      "company_display": "Moonshot",
+      "filename": "moonshot-kimi-chat_20241106.md",
+      "date": "2024-11-06",
+      "size": 6752,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/moonshot/moonshot-kimi-chat_20241106.md",
+      "sha": "51afd954d92881e4f27852cc903a79cc8049f52d",
+      "model_family": "moonshot/kimi",
+      "tags": [
+        "moonshot",
+        "leaked",
+        "chat"
+      ]
+    },
+    {
+      "id": "moonshot-kimi-k2-thinking-20251106",
+      "name": "Kimi k2 thinking",
+      "company": "moonshot",
+      "company_display": "Moonshot",
+      "filename": "moonshot-kimi-k2-thinking_20251106.md",
+      "date": "2025-11-06",
+      "size": 1293,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/moonshot/moonshot-kimi-k2-thinking_20251106.md",
+      "sha": "db3ac018bfa3406b1f526ab0003adb264862d14e",
+      "model_family": "moonshot/kimi",
+      "tags": [
+        "moonshot",
+        "leaked",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "naver-cue-20230920",
+      "name": "Cue",
+      "company": "naver",
+      "company_display": "Naver",
+      "filename": "naver-cue_20230920.md",
+      "date": "2023-09-20",
+      "size": 5964,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/naver/naver-cue_20230920.md",
+      "sha": "048695ccec9ecb23ab1667e3553c19d6f6d92c1a",
+      "model_family": "naver/cue",
+      "tags": [
+        "naver",
+        "leaked"
+      ]
+    },
+    {
+      "id": "notion-ai-20221228",
+      "name": "Ai",
+      "company": "notion",
+      "company_display": "Notion",
+      "filename": "notion-ai_20221228.md",
+      "date": "2022-12-28",
+      "size": 7795,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/notion/notion-ai_20221228.md",
+      "sha": "bf9969d5f24ba73ce4b336375fe9476dcc3d809f",
+      "model_family": "notion/notion",
+      "tags": [
+        "notion",
+        "leaked"
+      ]
+    },
+    {
+      "id": "openai-assistants-api-20231106",
+      "name": "Assistants api",
+      "company": "openai",
+      "company_display": "OpenAI",
+      "filename": "openai-assistants-api_20231106.md",
+      "date": "2023-11-06",
+      "size": 4034,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/openai/openai-assistants-api_20231106.md",
+      "sha": "ceb425fc86f7fc77e952402f2a7587ada15ebb54",
+      "model_family": "openai/gpt",
+      "tags": [
+        "openai",
+        "leaked",
+        "chat"
+      ]
+    },
+    {
+      "id": "openai-atlas-20251021",
+      "name": "Atlas",
+      "company": "openai",
+      "company_display": "OpenAI",
+      "filename": "openai-atlas_20251021.md",
+      "date": "2025-10-21",
+      "size": 33767,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/openai/openai-atlas_20251021.md",
+      "sha": "358b145d3529d156c664b13f4768f58ba6ab3f8d",
+      "model_family": "openai/gpt",
+      "tags": [
+        "openai",
+        "leaked"
+      ]
+    },
+    {
+      "id": "openai-chatgpt-4-5-20250307",
+      "name": "Chatgpt 4 5",
+      "company": "openai",
+      "company_display": "OpenAI",
+      "filename": "openai-chatgpt-4-5_20250307.md",
+      "date": "2025-03-07",
+      "size": 7274,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/openai/openai-chatgpt-4-5_20250307.md",
+      "sha": "c963015fb47eb0f70fdf2863265fe2bada11bdcc",
+      "model_family": "openai/gpt",
+      "tags": [
+        "openai",
+        "leaked",
+        "chat"
+      ]
+    },
+    {
+      "id": "openai-chatgpt-4-1-20250515",
+      "name": "Chatgpt 4.1",
+      "company": "openai",
+      "company_display": "OpenAI",
+      "filename": "openai-chatgpt-4.1_20250515.md",
+      "date": "2025-05-15",
+      "size": 9525,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/openai/openai-chatgpt-4.1_20250515.md",
+      "sha": "8083993edbd60c04392227da1267684596f28983",
+      "model_family": "openai/gpt",
+      "tags": [
+        "openai",
+        "leaked",
+        "chat"
+      ]
+    },
+    {
+      "id": "openai-chatgpt-ios-20230614",
+      "name": "Chatgpt ios",
+      "company": "openai",
+      "company_display": "OpenAI",
+      "filename": "openai-chatgpt-ios_20230614.md",
+      "date": "2023-06-14",
+      "size": 806,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/openai/openai-chatgpt-ios_20230614.md",
+      "sha": "48288ad8deb24186697771a734e53add4a9bc052",
+      "model_family": "openai/gpt",
+      "tags": [
+        "openai",
+        "leaked",
+        "chat",
+        "mobile"
+      ]
+    },
+    {
+      "id": "openai-chatgpt-o3-20250605",
+      "name": "Chatgpt o3",
+      "company": "openai",
+      "company_display": "OpenAI",
+      "filename": "openai-chatgpt-o3_20250605.md",
+      "date": "2025-06-05",
+      "size": 32003,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/openai/openai-chatgpt-o3_20250605.md",
+      "sha": "fe283cf671e8bb0534617a1efbc3fbab10fa0889",
+      "model_family": "openai/gpt",
+      "tags": [
+        "openai",
+        "leaked",
+        "chat"
+      ]
+    },
+    {
+      "id": "openai-chatgpt4-android-20240207",
+      "name": "Chatgpt4 android",
+      "company": "openai",
+      "company_display": "OpenAI",
+      "filename": "openai-chatgpt4-android_20240207.md",
+      "date": "2024-02-07",
+      "size": 5557,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/openai/openai-chatgpt4-android_20240207.md",
+      "sha": "1f157064c864d137d989e268b632079eec0f9873",
+      "model_family": "openai/gpt",
+      "tags": [
+        "openai",
+        "leaked",
+        "chat",
+        "mobile"
+      ]
+    },
+    {
+      "id": "openai-chatgpt4o-20240520",
+      "name": "Chatgpt4o",
+      "company": "openai",
+      "company_display": "OpenAI",
+      "filename": "openai-chatgpt4o_20240520.md",
+      "date": "2024-05-20",
+      "size": 14377,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/openai/openai-chatgpt4o_20240520.md",
+      "sha": "29a5b93dced18beb0942d06f6e74616c2bb3bce7",
+      "model_family": "openai/gpt",
+      "tags": [
+        "openai",
+        "leaked",
+        "chat"
+      ]
+    },
+    {
+      "id": "openai-chatgpt4o-20250324",
+      "name": "Chatgpt4o",
+      "company": "openai",
+      "company_display": "OpenAI",
+      "filename": "openai-chatgpt4o_20250324.md",
+      "date": "2025-03-24",
+      "size": 6952,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/openai/openai-chatgpt4o_20250324.md",
+      "sha": "b2ea85920ec4d35beebf85bc717e0f3aee7c2920",
+      "model_family": "openai/gpt",
+      "tags": [
+        "openai",
+        "leaked",
+        "chat"
+      ]
+    },
+    {
+      "id": "openai-chatgpt4o-20250927",
+      "name": "Chatgpt4o",
+      "company": "openai",
+      "company_display": "OpenAI",
+      "filename": "openai-chatgpt4o_20250927.md",
+      "date": "2025-09-27",
+      "size": 9178,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/openai/openai-chatgpt4o_20250927.md",
+      "sha": "f5b7bbe443ea6bf1fbfda7a90f4a117a12422a28",
+      "model_family": "openai/gpt",
+      "tags": [
+        "openai",
+        "leaked",
+        "chat"
+      ]
+    },
+    {
+      "id": "openai-chatgpt-20221201",
+      "name": "Chatgpt",
+      "company": "openai",
+      "company_display": "OpenAI",
+      "filename": "openai-chatgpt_20221201.md",
+      "date": "2022-12-01",
+      "size": 3235,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/openai/openai-chatgpt_20221201.md",
+      "sha": "b69bb564c25bfaa4cdcbb77e43c598b90e2a4df7",
+      "model_family": "openai/gpt",
+      "tags": [
+        "openai",
+        "leaked",
+        "chat"
+      ]
+    },
+    {
+      "id": "openai-chatkit-20251007",
+      "name": "Chatkit",
+      "company": "openai",
+      "company_display": "OpenAI",
+      "filename": "openai-chatkit_20251007.md",
+      "date": "2025-10-07",
+      "size": 73430,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/openai/openai-chatkit_20251007.md",
+      "sha": "383b76b8f4acd79e2307e33831dc8fc185ad5010",
+      "model_family": "openai/gpt",
+      "tags": [
+        "openai",
+        "leaked",
+        "chat"
+      ]
+    },
+    {
+      "id": "openai-codex-20250517",
+      "name": "Codex",
+      "company": "openai",
+      "company_display": "OpenAI",
+      "filename": "openai-codex_20250517.md",
+      "date": "2025-05-17",
+      "size": 4609,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/openai/openai-codex_20250517.md",
+      "sha": "067000a6f7f441f1d4e186865e5d65016d01c24d",
+      "model_family": "openai/gpt",
+      "tags": [
+        "openai",
+        "leaked",
+        "coding-agent"
+      ]
+    },
+    {
+      "id": "openai-codex-20250915",
+      "name": "Codex",
+      "company": "openai",
+      "company_display": "OpenAI",
+      "filename": "openai-codex_20250915.md",
+      "date": "2025-09-15",
+      "size": 12056,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/openai/openai-codex_20250915.md",
+      "sha": "9c8e920f91a91160578ef96695b44a1419e8a036",
+      "model_family": "openai/gpt",
+      "tags": [
+        "openai",
+        "leaked",
+        "coding-agent"
+      ]
+    },
+    {
+      "id": "openai-dall-e-3-20231007-1",
+      "name": "Dall e 3_20231007 1",
+      "company": "openai",
+      "company_display": "OpenAI",
+      "filename": "openai-dall-e-3_20231007-1.md",
+      "date": null,
+      "size": 5780,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/openai/openai-dall-e-3_20231007-1.md",
+      "sha": "b1e1ccb5bc9b74f77e78c54811919922197cd7e9",
+      "model_family": "openai/gpt",
+      "tags": [
+        "openai",
+        "leaked",
+        "image"
+      ]
+    },
+    {
+      "id": "openai-dall-e-3-20231007-2",
+      "name": "Dall e 3_20231007 2",
+      "company": "openai",
+      "company_display": "OpenAI",
+      "filename": "openai-dall-e-3_20231007-2.md",
+      "date": null,
+      "size": 2265,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/openai/openai-dall-e-3_20231007-2.md",
+      "sha": "2541c7cd798a598886b2a06acfa7ebf3f54c0079",
+      "model_family": "openai/gpt",
+      "tags": [
+        "openai",
+        "leaked",
+        "image"
+      ]
+    },
+    {
+      "id": "openai-deep-research-20250204",
+      "name": "Deep research",
+      "company": "openai",
+      "company_display": "OpenAI",
+      "filename": "openai-deep-research_20250204.md",
+      "date": "2025-02-04",
+      "size": 2030,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/openai/openai-deep-research_20250204.md",
+      "sha": "90584f2d3ed861eefaf6930d6186c0792d3b0112",
+      "model_family": "openai/gpt",
+      "tags": [
+        "openai",
+        "leaked",
+        "reasoning",
+        "search"
+      ]
+    },
+    {
+      "id": "openai-gpt-5-5-thinking-20260510",
+      "name": "Gpt 5.5 thinking",
+      "company": "openai",
+      "company_display": "OpenAI",
+      "filename": "openai-gpt-5.5-thinking_20260510.md",
+      "date": "2026-05-10",
+      "size": 109120,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/openai/openai-gpt-5.5-thinking_20260510.md",
+      "sha": "c67ad14e8508f414add2116cc3f43cd38ba6c384",
+      "model_family": "openai/gpt",
+      "tags": [
+        "openai",
+        "leaked",
+        "reasoning",
+        "frontier"
+      ]
+    },
+    {
+      "id": "opera-aria-20230617",
+      "name": "Aria",
+      "company": "opera",
+      "company_display": "Opera",
+      "filename": "opera-aria_20230617.md",
+      "date": "2023-06-17",
+      "size": 771,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/opera/opera-aria_20230617.md",
+      "sha": "cca2efb2f91877715f4a201f306ac66138a3a0ba",
+      "model_family": "opera/aria",
+      "tags": [
+        "opera",
+        "leaked"
+      ]
+    },
+    {
+      "id": "perplexity-ai-20221208",
+      "name": "Ai",
+      "company": "perplexity",
+      "company_display": "Perplexity",
+      "filename": "perplexity-ai_20221208.md",
+      "date": "2022-12-08",
+      "size": 1128,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/perplexity/perplexity-ai_20221208.md",
+      "sha": "9333a74c6c414f4926bf79017bdb3fecad1d38db",
+      "model_family": "perplexity/perplexity",
+      "tags": [
+        "perplexity",
+        "leaked"
+      ]
+    },
+    {
+      "id": "perplexity-ai-20240311",
+      "name": "Ai",
+      "company": "perplexity",
+      "company_display": "Perplexity",
+      "filename": "perplexity-ai_20240311.md",
+      "date": "2024-03-11",
+      "size": 1053,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/perplexity/perplexity-ai_20240311.md",
+      "sha": "2a145b97b2cb6e9065788d615460f2b19a4eb977",
+      "model_family": "perplexity/perplexity",
+      "tags": [
+        "perplexity",
+        "leaked"
+      ]
+    },
+    {
+      "id": "perplexity-ai-20240513",
+      "name": "Ai",
+      "company": "perplexity",
+      "company_display": "Perplexity",
+      "filename": "perplexity-ai_20240513.md",
+      "date": "2024-05-13",
+      "size": 2712,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/perplexity/perplexity-ai_20240513.md",
+      "sha": "35310848fbfc7364c1a0e8759bd0fec5cb88db17",
+      "model_family": "perplexity/perplexity",
+      "tags": [
+        "perplexity",
+        "leaked"
+      ]
+    },
+    {
+      "id": "perplexity-ai-20240607",
+      "name": "Ai",
+      "company": "perplexity",
+      "company_display": "Perplexity",
+      "filename": "perplexity-ai_20240607.md",
+      "date": "2024-06-07",
+      "size": 6059,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/perplexity/perplexity-ai_20240607.md",
+      "sha": "815210594469c8799223daf3a64fb585cfb2c4d7",
+      "model_family": "perplexity/perplexity",
+      "tags": [
+        "perplexity",
+        "leaked"
+      ]
+    },
+    {
+      "id": "perplexity-ai-20250112",
+      "name": "Ai",
+      "company": "perplexity",
+      "company_display": "Perplexity",
+      "filename": "perplexity-ai_20250112.md",
+      "date": "2025-01-12",
+      "size": 10420,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/perplexity/perplexity-ai_20250112.md",
+      "sha": "cfa601e13a0ae2cdc2701946c762eacb1cb2cdb7",
+      "model_family": "perplexity/perplexity",
+      "tags": [
+        "perplexity",
+        "leaked"
+      ]
+    },
+    {
+      "id": "perplexity-ai-gpt4-20240311",
+      "name": "Ai_gpt4",
+      "company": "perplexity",
+      "company_display": "Perplexity",
+      "filename": "perplexity-ai_gpt4_20240311.md",
+      "date": "2024-03-11",
+      "size": 1808,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/perplexity/perplexity-ai_gpt4_20240311.md",
+      "sha": "4bd23deba7704527731bccd2f7de070808b14567",
+      "model_family": "perplexity/perplexity",
+      "tags": [
+        "perplexity",
+        "leaked"
+      ]
+    },
+    {
+      "id": "phind-phind-20240427",
+      "name": "Phind",
+      "company": "phind",
+      "company_display": "Phind",
+      "filename": "phind_20240427.md",
+      "date": "2024-04-27",
+      "size": 2413,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/phind/phind_20240427.md",
+      "sha": "b468392bfb69caaaf5adc4b31065f89e704a6224",
+      "model_family": "phind/phind",
+      "tags": [
+        "phind",
+        "leaked"
+      ]
+    },
+    {
+      "id": "remoteli-io-20230806",
+      "name": "Io",
+      "company": "remoteli",
+      "company_display": "Remoteli",
+      "filename": "remoteli-io_20230806.md",
+      "date": "2023-08-06",
+      "size": 701,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/remoteli/remoteli-io_20230806.md",
+      "sha": "58fee636400cec3814fda1dce39a6025fa730ee0",
+      "model_family": "remoteli/remoteli",
+      "tags": [
+        "remoteli",
+        "leaked"
+      ]
+    },
+    {
+      "id": "roblox-studio-assistant-20240320",
+      "name": "Studio assistant",
+      "company": "roblox",
+      "company_display": "Roblox",
+      "filename": "roblox-studio-assistant_20240320.md",
+      "date": "2024-03-20",
+      "size": 8852,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/roblox/roblox-studio-assistant_20240320.md",
+      "sha": "f8e844a1d9f48568aaec68c4a2a35256118806c6",
+      "model_family": "roblox/studio",
+      "tags": [
+        "roblox",
+        "leaked",
+        "chat"
+      ]
+    },
+    {
+      "id": "snap-myai-20230430",
+      "name": "Myai",
+      "company": "snap",
+      "company_display": "Snap",
+      "filename": "snap-myai_20230430.md",
+      "date": "2023-04-30",
+      "size": 5181,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/snap/snap-myai_20230430.md",
+      "sha": "f0e9f9251d6db972430e57abf7a45a902a3edc91",
+      "model_family": "snap/myai",
+      "tags": [
+        "snap",
+        "leaked"
+      ]
+    },
+    {
+      "id": "v0-v0-20250306",
+      "name": "V0",
+      "company": "v0",
+      "company_display": "v0",
+      "filename": "v0_20250306.md",
+      "date": "2025-03-06",
+      "size": 66300,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/v0/v0_20250306.md",
+      "sha": "dba77758bc5bda32ecce5efbca4e22add97fc957",
+      "model_family": "v0/v0",
+      "tags": [
+        "v0",
+        "leaked"
+      ]
+    },
+    {
+      "id": "v0-v0-20250428",
+      "name": "V0",
+      "company": "v0",
+      "company_display": "v0",
+      "filename": "v0_20250428.md",
+      "date": "2025-04-28",
+      "size": 25324,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/v0/v0_20250428.md",
+      "sha": "1791eeb5eeadf56198b446895987c75264911d32",
+      "model_family": "v0/v0",
+      "tags": [
+        "v0",
+        "leaked"
+      ]
+    },
+    {
+      "id": "wrtn-gpt3-5-20240215",
+      "name": "Gpt3.5",
+      "company": "wrtn",
+      "company_display": "Wrtn",
+      "filename": "wrtn-gpt3.5_20240215.md",
+      "date": "2024-02-15",
+      "size": 1594,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/wrtn/wrtn-gpt3.5_20240215.md",
+      "sha": "b6d8a85ce645112907927dd149a715aba7d221b4",
+      "model_family": "wrtn/wrtn",
+      "tags": [
+        "wrtn",
+        "leaked"
+      ]
+    },
+    {
+      "id": "wrtn-gpt4-20240215",
+      "name": "Gpt4",
+      "company": "wrtn",
+      "company_display": "Wrtn",
+      "filename": "wrtn-gpt4_20240215.md",
+      "date": "2024-02-15",
+      "size": 1958,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/wrtn/wrtn-gpt4_20240215.md",
+      "sha": "783535c6bd7e9df984f95423790efba453e74d00",
+      "model_family": "wrtn/wrtn",
+      "tags": [
+        "wrtn",
+        "leaked"
+      ]
+    },
+    {
+      "id": "wrtn-wrtn-20230603",
+      "name": "Wrtn",
+      "company": "wrtn",
+      "company_display": "Wrtn",
+      "filename": "wrtn_20230603.md",
+      "date": "2023-06-03",
+      "size": 2161,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/wrtn/wrtn_20230603.md",
+      "sha": "2e46fa5e1bcef0c13e746bc80049eb5fddee1095",
+      "model_family": "wrtn/wrtn",
+      "tags": [
+        "wrtn",
+        "leaked"
+      ]
+    },
+    {
+      "id": "xai-xai-grok2-20241218",
+      "name": "XAI grok2",
+      "company": "xai",
+      "company_display": "xAI",
+      "filename": "xAI-grok2_20241218.md",
+      "date": "2024-12-18",
+      "size": 3552,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/xai/xAI-grok2_20241218.md",
+      "sha": "c6503e08cc36935c6180a8b57eb5c7570e250937",
+      "model_family": "xai/grok",
+      "tags": [
+        "xai",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "xai-xai-grok2-20250111",
+      "name": "XAI grok2",
+      "company": "xai",
+      "company_display": "xAI",
+      "filename": "xAI-grok2_20250111.md",
+      "date": "2025-01-11",
+      "size": 4077,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/xai/xAI-grok2_20250111.md",
+      "sha": "322ddd7cd354ed1b55e2450258e67c827471aebf",
+      "model_family": "xai/grok",
+      "tags": [
+        "xai",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "xai-xai-grok3-20250223",
+      "name": "XAI grok3",
+      "company": "xai",
+      "company_display": "xAI",
+      "filename": "xAI-grok3_20250223.md",
+      "date": "2025-02-23",
+      "size": 14702,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/xai/xAI-grok3_20250223.md",
+      "sha": "ccc1b97bfeaecf5c16e91a7812a0606d1183971f",
+      "model_family": "xai/grok",
+      "tags": [
+        "xai",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "xai-xai-grok3-20250423",
+      "name": "XAI grok3",
+      "company": "xai",
+      "company_display": "xAI",
+      "filename": "xAI-grok3_20250423.md",
+      "date": "2025-04-23",
+      "size": 4891,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/xai/xAI-grok3_20250423.md",
+      "sha": "b3dfe3858416e1796ccec7e66569227b909f1382",
+      "model_family": "xai/grok",
+      "tags": [
+        "xai",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "xai-xai-grok3-20250504",
+      "name": "XAI grok3",
+      "company": "xai",
+      "company_display": "xAI",
+      "filename": "xAI-grok3_20250504.md",
+      "date": "2025-05-04",
+      "size": 9195,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/xai/xAI-grok3_20250504.md",
+      "sha": "9f701f737f4d3e3d1bd525b6209f830311d5c1d2",
+      "model_family": "xai/grok",
+      "tags": [
+        "xai",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "xai-xai-grok-20240307",
+      "name": "XAI grok",
+      "company": "xai",
+      "company_display": "xAI",
+      "filename": "xAI-grok_20240307.md",
+      "date": "2024-03-07",
+      "size": 1103,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/xai/xAI-grok_20240307.md",
+      "sha": "03119df4139c7d522ab16c9e084008a79c763236",
+      "model_family": "xai/grok",
+      "tags": [
+        "xai",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "xai-xai-grok-20241003",
+      "name": "XAI grok",
+      "company": "xai",
+      "company_display": "xAI",
+      "filename": "xAI-grok_20241003.md",
+      "date": "2024-10-03",
+      "size": 8325,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/xai/xAI-grok_20241003.md",
+      "sha": "9c62d78cedf444aea939f896c01614f7ff0abfb1",
+      "model_family": "xai/grok",
+      "tags": [
+        "xai",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "xai-grok-4-1-20251117",
+      "name": "Grok 4.1",
+      "company": "xai",
+      "company_display": "xAI",
+      "filename": "xai-grok-4.1_20251117.md",
+      "date": "2025-11-17",
+      "size": 14032,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/xai/xai-grok-4.1_20251117.md",
+      "sha": "50e5e1031f85c47534f785363084d2218e0c58d9",
+      "model_family": "xai/grok",
+      "tags": [
+        "xai",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "xai-grok-4-20-20260217",
+      "name": "Grok 4.20",
+      "company": "xai",
+      "company_display": "xAI",
+      "filename": "xai-grok-4.20_20260217.md",
+      "date": "2026-02-17",
+      "size": 15602,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/xai/xai-grok-4.20_20260217.md",
+      "sha": "b68c553fbf00717739f51fb5512c5d01b86443ab",
+      "model_family": "xai/grok",
+      "tags": [
+        "xai",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "xai-grok-4-3-beta-20260427",
+      "name": "Grok 4.3 beta",
+      "company": "xai",
+      "company_display": "xAI",
+      "filename": "xai-grok-4.3-beta_20260427.md",
+      "date": "2026-04-27",
+      "size": 23385,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/xai/xai-grok-4.3-beta_20260427.md",
+      "sha": "0995ee710c20ce9fe239a1fe9a4e15b106c27a5b",
+      "model_family": "xai/grok",
+      "tags": [
+        "xai",
+        "leaked",
+        "frontier"
+      ]
+    },
+    {
+      "id": "xai-grok-code-fast-1-20250826",
+      "name": "Grok code fast 1",
+      "company": "xai",
+      "company_display": "xAI",
+      "filename": "xai-grok-code-fast-1_20250826.md",
+      "date": "2025-08-26",
+      "size": 4248,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/xai/xai-grok-code-fast-1_20250826.md",
+      "sha": "84025a3ed93428f4fa3ba2834cf073833ff16e98",
+      "model_family": "xai/grok",
+      "tags": [
+        "xai",
+        "leaked",
+        "coding-agent",
+        "frontier"
+      ]
+    },
+    {
+      "id": "xai-grok3-chat-assistant-20250517",
+      "name": "Grok3 chat assistant",
+      "company": "xai",
+      "company_display": "xAI",
+      "filename": "xai-grok3-chat-assistant_20250517.md",
+      "date": "2025-05-17",
+      "size": 5001,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/xai/xai-grok3-chat-assistant_20250517.md",
+      "sha": "a3c6990648d9f907ce0ea717bc6787e2a5510f54",
+      "model_family": "xai/grok",
+      "tags": [
+        "xai",
+        "leaked",
+        "frontier",
+        "chat"
+      ]
+    },
+    {
+      "id": "xai-grok3-deepsearch-20250517",
+      "name": "Grok3 deepsearch",
+      "company": "xai",
+      "company_display": "xAI",
+      "filename": "xai-grok3-deepsearch_20250517.md",
+      "date": "2025-05-17",
+      "size": 5004,
+      "download_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/xai/xai-grok3-deepsearch_20250517.md",
+      "sha": "7eb1a00515cbb25f914ea0fbbed1806cf3143771",
+      "model_family": "xai/grok",
+      "tags": [
+        "xai",
+        "leaked",
+        "reasoning",
+        "frontier",
+        "search"
+      ]
+    }
+  ]
+}

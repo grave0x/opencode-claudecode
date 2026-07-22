@@ -1,0 +1,24 @@
+# Dependencies
+.opencode/node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Logs
+*.log
+.opencode/hook-log.txt
+.opencode/hook-errors.log
+
+# Session exports
+opencode-export-*.md
+
+# State
+.opencode/.system-prompt/

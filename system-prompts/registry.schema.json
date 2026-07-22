@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "System Prompt Registry",
+  "description": "Central index of known frontier model system prompts",
+  "type": "object",
+  "required": ["version", "prompts"],
+  "properties": {
+    "version": { "type": "integer", "description": "Schema version number" },
+    "description": { "type": "string" },
+    "prompts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "model_family", "tags"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9._-]+$", "description": "Unique prompt identifier" },
+          "name": { "type": "string", "description": "Human-readable name" },
+          "model_family": { "type": "string", "description": "Vendor/model family (e.g. anthropic/claude)" },
+          "version": { "type": "string", "description": "Model version string" },
+          "date": { "type": "string", "format": "date", "description": "Release or leak date" },
+          "source_url": { "type": ["string", "null"], "format": "uri", "description": "Primary source URL" },
+          "backup_url": { "type": ["string", "null"], "format": "uri", "description": "Backup/mirror URL" },
+          "local_path": { "type": ["string", "null"], "description": "Relative path to cached raw prompt" },
+          "raw_size_bytes": { "type": ["integer", "null"], "description": "Size of raw prompt in chars" },
+          "key_patterns_file": { "type": ["string", "null"], "description": "Filename of key-patterns analysis" },
+          "tags": { "type": "array", "items": { "type": "string" } },
+          "description": { "type": "string" },
+          "registered": { "type": "string", "format": "date", "description": "Date added to registry" }
+        }
+      }
+    }
+  }
+}

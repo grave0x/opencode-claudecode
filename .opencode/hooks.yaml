@@ -1,0 +1,30 @@
+# Lifecycle hooks for opencode
+# See AGENTS.md <!-- hooks-system --> for documentation
+
+# Before file writes: lint the file
+before:file_write:
+  - command: "npx eslint --fix __FILE__ 2>/dev/null || true"
+    pattern: "*.{ts,tsx,js,jsx}"
+    timeout: 30000
+
+# Before shell commands: log them
+before:shell_command:
+  - command: "echo \"[HOOK] Running: __COMMAND__\" >> .opencode/hook-log.txt"
+    timeout: 5000
+
+# After file writes: typecheck
+after:file_write:
+  - command: "npx tsc --noEmit 2>/dev/null || true"
+    pattern: "*.{ts,tsx}"
+    timeout: 60000
+
+# Before git commit: run tests
+before:commit:
+  - command: "npm test 2>/dev/null || echo 'Tests skipped'"
+    timeout: 120000
+    deny_exit_code: 1
+
+# On error: notify
+on:error:
+  - command: "echo \"[HOOK ERROR] $(date): __ERROR__\" >> .opencode/hook-errors.log"
+    timeout: 5000

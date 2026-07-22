@@ -1,0 +1,248 @@
+{
+  "$schema": "./registry.schema.json",
+  "version": 1,
+  "description": "Central index of known frontier model system prompts",
+  "prompts": [
+    {
+      "id": "claude-opus-4.7",
+      "name": "Claude Opus 4.7",
+      "model_family": "anthropic/claude",
+      "version": "4.7",
+      "date": "2026-04-22",
+      "source_url": "https://raw.githubusercontent.com/asgeirtj/system_prompts_leaks/main/Anthropic/claude-opus-4.7.md",
+      "backup_url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "local_path": "raw/claude-opus-4.7.txt",
+      "raw_size_bytes": 181696,
+      "key_patterns_file": "claude-opus-4.7-key-patterns.md",
+      "tags": [
+        "anthropic",
+        "claude",
+        "opus",
+        "frontier",
+        "leaked"
+      ],
+      "description": "Anthropic Claude Opus 4.7 — their most capable model, extensive system prompt with safety rails, search-first behavior, refusal rules",
+      "registered": "2026-07-18"
+    },
+    {
+      "id": "claude-code",
+      "name": "Claude Code",
+      "model_family": "anthropic/claude-code",
+      "version": "latest",
+      "date": "2025-03-24",
+      "source_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-code_20250324.md",
+      "backup_url": "https://github.com/YeeKal/leaked-system-prompts",
+      "local_path": "raw/claude-code.txt",
+      "raw_size_bytes": 1928,
+      "key_patterns_file": "claude-code-key-patterns.md",
+      "tags": [
+        "anthropic",
+        "claude-code",
+        "coding-agent",
+        "leaked"
+      ],
+      "description": "Anthropic Claude Code — CLI coding agent system prompt with tool-use, file-editing, and shell-command rules",
+      "registered": "2026-07-18"
+    },
+    {
+      "id": "gpt-5.5-thinking",
+      "name": "GPT-5.5 Thinking",
+      "model_family": "openai/gpt",
+      "version": "5.5",
+      "date": "2026-05-10",
+      "source_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/openai/openai-gpt-5.5-thinking_20260510.md",
+      "backup_url": "https://github.com/YeeKal/leaked-system-prompts",
+      "local_path": "raw/gpt-5.5-thinking.txt",
+      "raw_size_bytes": 108878,
+      "key_patterns_file": "gpt-5.5-thinking-key-patterns.md",
+      "tags": [
+        "openai",
+        "gpt",
+        "thinking",
+        "frontier",
+        "leaked"
+      ],
+      "description": "OpenAI GPT-5.5 Thinking — reasoning model with chain-of-thought, skills dispatch, safety filters, citation rules",
+      "registered": "2026-07-18"
+    },
+    {
+      "id": "grok-4.3-beta",
+      "name": "Grok 4.3 Beta",
+      "model_family": "xai/grok",
+      "version": "4.3",
+      "date": "2026-04-27",
+      "source_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/xai/xai-grok-4.3-beta_20260427.md",
+      "backup_url": "https://github.com/YeeKal/leaked-system-prompts",
+      "local_path": "raw/grok-4.3-beta.txt",
+      "raw_size_bytes": 23369,
+      "key_patterns_file": null,
+      "tags": [
+        "xai",
+        "grok",
+        "frontier",
+        "leaked"
+      ],
+      "description": "xAI Grok 4.3 Beta — real-time, humorous tone, web/X search native",
+      "registered": "2026-07-18"
+    },
+    {
+      "id": "gemini-3.1-pro",
+      "name": "Gemini 3.1 Pro",
+      "model_family": "google/gemini",
+      "version": "3.1",
+      "date": "2026-03-01",
+      "source_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/google/google-gemini-3.1-pro_20260301.md",
+      "backup_url": "https://github.com/YeeKal/leaked-system-prompts",
+      "local_path": "raw/gemini-3.1-pro.txt",
+      "raw_size_bytes": 22697,
+      "key_patterns_file": null,
+      "tags": [
+        "google",
+        "gemini",
+        "frontier",
+        "leaked"
+      ],
+      "description": "Google Gemini 3.1 Pro — multimodal, tool-use, safety filters, grounding",
+      "registered": "2026-07-18"
+    },
+    {
+      "id": "cursor-2.0",
+      "name": "Cursor 2.0",
+      "model_family": "cursor/cursor",
+      "version": "2.0",
+      "date": "2025-10-29",
+      "source_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/cursor/cursor-2.0_20251029.md",
+      "backup_url": "https://github.com/YeeKal/leaked-system-prompts",
+      "local_path": "raw/cursor-2.0.txt",
+      "raw_size_bytes": 23387,
+      "key_patterns_file": null,
+      "tags": [
+        "cursor",
+        "coding-agent",
+        "leaked"
+      ],
+      "description": "Cursor 2.0 — AI coding IDE system prompt with diff editing, linting, terminal rules",
+      "registered": "2026-07-18"
+    },
+    {
+      "id": "codex",
+      "name": "Codex",
+      "model_family": "openai/codex",
+      "version": "latest",
+      "date": "2025-09-15",
+      "source_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/openai/openai-codex_20250915.md",
+      "backup_url": "https://github.com/YeeKal/leaked-system-prompts",
+      "local_path": "raw/codex.txt",
+      "raw_size_bytes": 12000,
+      "key_patterns_file": null,
+      "tags": [
+        "openai",
+        "codex",
+        "coding-agent",
+        "leaked"
+      ],
+      "description": "OpenAI Codex — coding model system prompt",
+      "registered": "2026-07-18"
+    },
+    {
+      "id": "claude-fable-5",
+      "name": "Claude Fable 5",
+      "model_family": "anthropic/claude",
+      "version": "fable-5",
+      "date": "2026-06-01",
+      "source_url": "https://raw.githubusercontent.com/asgeirtj/system_prompts_leaks/main/Anthropic/claude-fable-5.md",
+      "backup_url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "local_path": "raw/claude-fable-5.txt",
+      "raw_size_bytes": 187216,
+      "key_patterns_file": null,
+      "tags": [
+        "anthropic",
+        "claude",
+        "fable",
+        "mythos",
+        "frontier",
+        "leaked"
+      ],
+      "description": "Anthropic Claude Fable 5 (Mythos-class, June 2026) — tier above Opus. ~190K token budget. Shut down June 12 by US export control directive. Key: CoT, constitutional AI, extreme refusal, 'fable' flavor.",
+      "registered": "2026-07-18"
+    },
+    {
+      "id": "claude-opus-4.8",
+      "name": "Claude Opus 4.8",
+      "model_family": "anthropic/claude",
+      "version": "4.8",
+      "date": "2026-06-15",
+      "source_url": "https://raw.githubusercontent.com/asgeirtj/system_prompts_leaks/main/Anthropic/claude-opus-4.8.md",
+      "backup_url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "local_path": "raw/claude-opus-4.8.txt",
+      "raw_size_bytes": 183108,
+      "key_patterns_file": null,
+      "tags": [
+        "anthropic",
+        "claude",
+        "opus",
+        "frontier",
+        "leaked"
+      ],
+      "description": "Anthropic Claude Opus 4.8 — refined safety, improved tool-use orchestration",
+      "registered": "2026-07-18"
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "model_family": "perplexity/perplexity",
+      "version": "latest",
+      "date": "2026-05-01",
+      "source_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/perplexity/perplexity-ai_20250112.md",
+      "backup_url": "https://github.com/YeeKal/leaked-system-prompts",
+      "local_path": "raw/perplexity.txt",
+      "raw_size_bytes": 10357,
+      "key_patterns_file": null,
+      "tags": [
+        "perplexity",
+        "search",
+        "leaked"
+      ],
+      "description": "Perplexity AI — search-native assistant, citation-heavy, source-grounded responses",
+      "registered": "2026-07-18"
+    },
+    {
+      "id": "kimi-k2.6",
+      "name": "Kimi K2.6",
+      "model_family": "moonshot/kimi",
+      "version": "K2.6",
+      "date": "2026-05-15",
+      "source_url": "https://raw.githubusercontent.com/asgeirtj/system_prompts_leaks/main/Kimi/kimi-2.6.md",
+      "backup_url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "local_path": "raw/kimi-k2.6.txt",
+      "raw_size_bytes": 13133,
+      "key_patterns_file": null,
+      "tags": [
+        "moonshot",
+        "kimi",
+        "frontier",
+        "leaked"
+      ],
+      "description": "Moonshot Kimi K2.6 — long-context Chinese/English bilingual model",
+      "registered": "2026-07-18"
+    },
+    {
+      "id": "anthropic-claude-design",
+      "name": "Claude design",
+      "model_family": "anthropic/claude",
+      "version": "latest",
+      "date": "2026-04-17",
+      "source_url": "https://raw.githubusercontent.com/YeeKal/leaked-system-prompts/main/prompts/anthropic/anthropic-claude-design_20260417.md",
+      "backup_url": "https://github.com/YeeKal/leaked-system-prompts",
+      "local_path": "raw/anthropic-claude-design.txt",
+      "raw_size_bytes": 73356,
+      "key_patterns_file": null,
+      "tags": [
+        "anthropic",
+        "leaked"
+      ],
+      "description": "Anthropic Claude design — 2026-04-17",
+      "registered": "2026-07-18"
+    }
+  ]
+}
