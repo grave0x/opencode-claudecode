@@ -1,0 +1,50 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate JSON files
+        run: |
+          failed=0
+          while IFS= read -r -d '' f; do
+            echo "Validating $f"
+            python3 -m json.tool "$f" > /dev/null 2>&1 || { echo "FAIL: $f is not valid JSON"; failed=1; }
+          done < <(find . -name "*.json" -not -path './.git/*' -print0)
+          exit $failed
+
+      - name: Validate opencode config
+        run: |
+          python3 -c "
+import json, os.path
+
+with open('opencode.json') as f:
+    cfg = json.load(f)
+
+assert isinstance(cfg, dict), 'opencode.json must be an object'
+assert 'plugin' in cfg, 'opencode.json must have a plugin key'
+plugins = cfg['plugin']
+assert isinstance(plugins, list), 'plugin must be an array'
+for p in plugins:
+    assert p.startswith('./'), f'plugin path must be relative: {p}'
+    assert os.path.isfile(p), f'plugin file not found: {p}'
+
+print('opencode.json schema validation passed')
+"
+
+      - name: Verify command files
+        run: |
+          failed=0
+          for md in commands/*.md; do
+            [ -s "$md" ] || { echo "FAIL: $md is empty"; failed=1; }
+          done
+          [ "$failed" -eq 0 ] && echo "All command files OK"
+          exit $failed
